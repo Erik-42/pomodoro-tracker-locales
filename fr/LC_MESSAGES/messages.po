@@ -131,7 +131,7 @@ msgid "Click on a number to add more."
 msgstr "Cliquez sur le chiffre pour ajouter des tâches."
 
 msgid "Click to open menu"
-msgstr "Menu ouvert"
+msgstr "Cliquez our ouvrir le menu"
 
 msgid "Click/tap to edit items."
 msgstr "Cliquez ou touchez pour modifier les éléments."
@@ -143,7 +143,7 @@ msgid "Code"
 msgstr "Code"
 
 msgid "Color Theme"
-msgstr "Thème de couleur"
+msgstr "Couleur du thème"
 
 msgid "Configure"
 msgstr "Configurer"
@@ -188,7 +188,7 @@ msgid "Drag&Drop/Touch to sort items."
 msgstr "Cliquez-glissez/maintenez pour trier les éléments"
 
 msgid "Due"
-msgstr ""
+msgstr "Obligatoire"
 
 msgid "Edit"
 msgstr "Modifier"
@@ -221,25 +221,25 @@ msgid "Feedback"
 msgstr "Avis"
 
 msgid "File"
-msgstr ""
+msgstr "Fichier"
 
 msgid "Fill blank entries"
 msgstr "Remplissez les entrées vides"
 
 msgid "Global shortcut to open Pomodoro-Tracker"
-msgstr "Raccourci mondial pour ouvrir Pomodoro-Tracker"
+msgstr "Raccourci pour ouvrir Pomodoro-Tracker"
 
 msgid "Great work!"
 msgstr "Beau travail!"
 
 msgid "Help"
-msgstr ""
+msgstr "Aide"
 
 msgid "Hide notificaions"
 msgstr "Cacher les notifications"
 
 msgid "History"
-msgstr ""
+msgstr "Historique"
 
 msgid "How to fix?"
 msgstr "Comment réparer?"
@@ -291,7 +291,7 @@ msgstr ""
 "longue (15 à 30 minutes)."
 
 msgid "Language"
-msgstr "La langue"
+msgstr "Langue"
 
 msgid "Last 365 days"
 msgstr "ces 365 derniers jours"
@@ -306,7 +306,7 @@ msgid "Last Week"
 msgstr "la semaine dernière"
 
 msgid "Like"
-msgstr "Liker"
+msgstr "Aimer"
 
 msgid "Link copied"
 msgstr "Lien copié"
@@ -351,10 +351,10 @@ msgid "Move to Inbox"
 msgstr "Déplacer vers la Inbox"
 
 msgid "Navigate Back"
-msgstr ""
+msgstr "Retour"
 
 msgid "Navigate Forward"
-msgstr ""
+msgstr "Avancer"
 
 msgid "New"
 msgstr "Nouveau"
@@ -405,7 +405,7 @@ msgid "Please select a value"
 msgstr "Veuillez sélectionner une valeur"
 
 msgid "Please unblock notifications in your browser"
-msgstr ""
+msgstr "Débloquez les notifictions dans votre navigateur"
 
 msgid "Please, login to use the feature"
 msgstr "Veuillez vous connecter pour utiliser la fonction"
@@ -414,7 +414,7 @@ msgid "Please, login to view your stats"
 msgstr "Connectez-vous pour consulter vos statistiques"
 
 msgid "Pomodoro Tracker is a productivity app designed for your work and study."
-msgstr ""
+msgstr "Pomodoro Tracker est une application de productivitée pour votre travail ou vos études"
 
 msgid "Pomodoro duration"
 msgstr "Durée du pomodoro"
@@ -429,7 +429,7 @@ msgid "Press"
 msgstr "Appuyez sur"
 
 msgid "Profile"
-msgstr ""
+msgstr "Profile"
 
 msgid "Provide Feedback"
 msgstr "Fournir une réponse"
@@ -504,7 +504,7 @@ msgid "Send test notification"
 msgstr "Envoyer une notification de test"
 
 msgid "Server Error"
-msgstr ""
+msgstr "Erreur de connexion avec le serveur"
 
 msgid "Server has been updated."
 msgstr "Le serveur a été mis à jour."
@@ -570,7 +570,7 @@ msgid "Stats"
 msgstr "Stats"
 
 msgid "Stay focused and finish tasks effectively."
-msgstr ""
+msgstr "Restez concentré et terminé vos tâches éfficacement."
 
 msgid ""
 "Strengthen your resolve to keep on applying yourself in the face of "
@@ -596,7 +596,7 @@ msgid "Take a short break (3-5 minutes)"
 msgstr "Faites une courte pause (3 à 5 minutes)."
 
 msgid "Take more time to your life."
-msgstr ""
+msgstr "Prenez plus de temps dans votre vie"
 
 msgid "Thank you for the feedback! Your message is awaiting moderation."
 msgstr "Merci pour votre retour ! Votre message va passer par la modération."
@@ -638,7 +638,8 @@ msgstr ""
 msgid ""
 "The Pomodoro Tracker — A useful tool for time management based on "
 "Pomodoro Technique."
-msgstr ""
+msgstr "The Pomodoro Tracker — Un outil utile pour la gestion du temps avec la "
+"technique Pomodoro"
 
 msgid ""
 "The aim of the Pomodoro Technique is to use time as a valuable ally in "
@@ -692,7 +693,7 @@ msgid "Title"
 msgstr "Titre"
 
 msgid "Toggle eye keeper"
-msgstr ""
+msgstr "Changer de point de vue"
 
 msgid "Toggle fullscreen"
 msgstr "Passer en plein écran"
@@ -716,7 +717,7 @@ msgid "Update status"
 msgstr "État de mise à jour"
 
 msgid "View"
-msgstr ""
+msgstr "Vue"
 
 msgid "Volume"
 msgstr "Son"
@@ -725,7 +726,7 @@ msgid "What is it?"
 msgstr "Qu'est-ce que la technique Pomodoro ?"
 
 msgid "Window"
-msgstr ""
+msgstr "Fenêtre"
 
 msgid "Work days"
 msgstr "jours de travail"
@@ -743,7 +744,7 @@ msgid "Yesterday"
 msgstr "hier"
 
 msgid "You are not signed."
-msgstr "Vous n'êtes pas connecté·e."
+msgstr "Vous n'êtes pas connecté"
 
 msgid ""
 "You are trying to connect a %1$s account, but it is already connected to "
@@ -843,7 +844,7 @@ msgid "for all time"
 msgstr "depuis le début"
 
 msgid "forward"
-msgstr ""
+msgstr "Avancer"
 
 msgid "friday"
 msgstr "vendredi"
@@ -852,7 +853,7 @@ msgid "friends"
 msgstr "copains"
 
 msgid "global"
-msgstr ""
+msgstr "général"
 
 msgid "hour"
 msgid_plural "hours"
@@ -891,20 +892,20 @@ msgstr "clair"
 
 msgid "like"
 msgid_plural "likes"
-msgstr[0] "like"
-msgstr[1] "likes"
+msgstr[0] "aimer"
+msgstr[1] "aimer"
 
 msgid "login"
 msgstr "s'identifier"
 
 msgid "maximize"
-msgstr ""
+msgstr "agrandir"
 
 msgid "median"
 msgstr "médiane"
 
 msgid "menu"
-msgstr ""
+msgstr "menu"
 
 msgid "merge"
 msgstr "fusionner"
@@ -913,7 +914,7 @@ msgid "messages"
 msgstr "messages"
 
 msgid "minimize"
-msgstr ""
+msgstr "réduire"
 
 msgid "minute"
 msgid_plural "minutes"
@@ -998,7 +999,7 @@ msgid "saturday"
 msgstr "samedi"
 
 msgid "save"
-msgstr ""
+msgstr "sauver"
 
 msgid "send password"
 msgstr "envoyer le mot de passe"
@@ -1039,7 +1040,8 @@ msgstr "durée"
 msgid ""
 "to your telegram, type `/reg` and enter a code from the bot to field "
 "bellow"
-msgstr ""
+msgstr "Pour votre message, taper `/reg` et entrez le code reçu dans le champ"
+"ci-dessous"
 
 msgid "today"
 msgstr "aujourd'hui"
@@ -1115,7 +1117,7 @@ msgstr[1] "ans"
 #~ msgstr "Importer des enregistrements à partir de CSV"
 
 #~ msgid "Import/Export tasks"
-#~ msgstr ""
+#~ msgstr "Importer/Exporter les tâches"
 
 #~ msgid "January"
 #~ msgstr "janvier"
